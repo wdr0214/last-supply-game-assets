@@ -1,13 +1,23 @@
 [
   {
+    "path": ".nojekyll",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
     "path": "art35-20261016/last-supply-art-mobile/config.art35_20261016v1.json",
     "bytes": 20550,
     "sha256": "4c3f503ccb0729989768ef4f0d2c4ac7c008bb2fca9e573ab31ab7d2769ed65b"
   },
   {
+    "path": "art35-20261016/last-supply-art-mobile/config.art35_20261023r02v1.json",
+    "bytes": 20569,
+    "sha256": "d486e5b630b35a70bdbc2b20ce181dfe8b026b9f7f4e69a314f344f8a12bfcaf"
+  },
+  {
     "path": "art35-20261016/last-supply-art-mobile/config.json",
-    "bytes": 20550,
-    "sha256": "4c3f503ccb0729989768ef4f0d2c4ac7c008bb2fca9e573ab31ab7d2769ed65b"
+    "bytes": 20569,
+    "sha256": "d486e5b630b35a70bdbc2b20ce181dfe8b026b9f7f4e69a314f344f8a12bfcaf"
   },
   {
     "path": "art35-20261016/last-supply-art-mobile/import/00/00038083-3c31-49c1-9237-722e4a4cb28e.json",
@@ -830,6 +840,11 @@
     "sha256": "69ee7c1462ea5fc064979b6be6d983e9d0117744e751f892f33932be632f453d"
   },
   {
+    "path": "art35-20261016/last-supply-art-mobile/native/97/972d9067-5bcf-4559-922e-508b35b15419.e3465f5ab961.png",
+    "bytes": 381116,
+    "sha256": "e3465f5ab961beceb6686c2b5bbfdaf4755cf83e44e0ecd28b250dc635d8ec7f"
+  },
+  {
     "path": "art35-20261016/last-supply-art-mobile/native/97/972d9067-5bcf-4559-922e-508b35b15419.png",
     "bytes": 385508,
     "sha256": "02033746e7e484bb8afcfc89fd2b3ee5d22bd72a09b2c96752518e46a57bae21"
@@ -943,5 +958,10 @@
     "path": "art35-20261016/last-supply-art-mobile/native/fc/fc6f4d1f-1508-4dd5-9d7f-ffbf5c89a846.png",
     "bytes": 343014,
     "sha256": "77cf774d3505468792da6182f5d7fffb8ac139b4c2e03d372fb4a365c81d2289"
+  },
+  {
+    "path": "README.md",
+    "bytes": 220,
+    "sha256": "491196a861cb4eb903f83a2a409a55ccf923e29100e76d0648df219e9f650200"
   }
 ]
