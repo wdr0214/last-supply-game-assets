@@ -960,6 +960,31 @@
     "sha256": "77cf774d3505468792da6182f5d7fffb8ac139b4c2e03d372fb4a365c81d2289"
   },
   {
+    "path": "card-sfx-20261024v1/demolish.b4a4fab6fb9d.mp3",
+    "sha256": "b4a4fab6fb9d5f3b797989818adc34cffa9ecfaa75f77e742c2081facc6c84d7",
+    "bytes": 24659
+  },
+  {
+    "path": "card-sfx-20261024v1/fault.2f5ee81e4552.mp3",
+    "sha256": "2f5ee81e4552b0f74117929e56bf547cb1972d73e94e697cda8b4994adc69684",
+    "bytes": 24659
+  },
+  {
+    "path": "card-sfx-20261024v1/place.45dd52650814.mp3",
+    "sha256": "45dd52650814935f57df7f7d5d6257b077a17fce8aebbe7f556df903395200d1",
+    "bytes": 24659
+  },
+  {
+    "path": "card-sfx-20261024v1/repair.99019ffc8717.mp3",
+    "sha256": "99019ffc87176867773ab03d667b6666ab463ad81d90bf3ad63a25f2d1d53c18",
+    "bytes": 24659
+  },
+  {
+    "path": "card-sfx-20261024v1/scan.c4495a7a0f62.mp3",
+    "sha256": "c4495a7a0f6279dcda2c44a51763ca9696c263b1ad7f67eb309227b69ade1e29",
+    "bytes": 24659
+  },
+  {
     "path": "README.md",
     "bytes": 220,
     "sha256": "491196a861cb4eb903f83a2a409a55ccf923e29100e76d0648df219e9f650200"
